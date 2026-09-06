@@ -1,7 +1,7 @@
 
 # relativistic-jax-verification
 
-[![CI](https://github.com/your-username/relativistic-jax-verification/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/relativistic-jax-verification/actions)
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![JAX](https://img.shields.io/badge/JAX-Float64%20Enabled-green.svg)](https://github.com/google/jax)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
