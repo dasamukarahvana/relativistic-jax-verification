@@ -1,4 +1,4 @@
-B
+
 # relativistic-jax-verification
 
 [![CI](https://github.com/your-username/relativistic-jax-verification/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/relativistic-jax-verification/actions)
