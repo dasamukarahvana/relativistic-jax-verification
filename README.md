@@ -148,7 +148,7 @@ If you reference or use this verification suite in scientific software or public
   author = {Your Name / Research Group},
   title = {relativistic-jax-verification: A JAX Float64 Numerical Consistency Suite for Special-Relativistic Kinematics},
   year = {2026},
-  url = {https://github.com/your-username/relativistic-jax-verification}
+  url = {https://github.com/dasamukarahvana/relativistic-jax-verification/tree/main
 }
 ```
 
