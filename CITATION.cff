@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Dasamuka"
+    given-names: "Rahvana"
+title: "relativistic-jax-verification: A JAX Float64 Numerical Consistency Suite for Special-Relativistic Kinematics"
+version: 1.0.0
+date-released: 2026-09-06
+url: "https://github.com/your-username/relativistic-jax-verification"
+license: Apache-2.0
