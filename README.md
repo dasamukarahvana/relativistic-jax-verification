@@ -154,5 +154,5 @@ If you reference or use this verification suite in scientific software or public
 
 ## 📄 License
 
-Distributed under the **Apache 2.0 License**. See [LICENSE](LICENSE) for details.
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 ```
